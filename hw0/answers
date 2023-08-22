@@ -1,0 +1,7 @@
+1. /homes/cs240/public$
+2. cp style_sample.c ~/cs240/hw0/style_sample.c
+3. cs240/hw0/another_file, my_file, my_file2, style_sample.c, style_sample.h
+4. Absolute path has the entire directory listed to locate a certain file, while a relative path only describes where the current file is in the current directory the user is in
+5. /homes/vcui/cs240/hw0$
+6. cp hello.c ~/cs240/hw0/hello.c
+7. cp hello.h ~/cs240/hw0/hello.h
